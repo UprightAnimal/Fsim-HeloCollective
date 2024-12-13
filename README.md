@@ -3,7 +3,7 @@
 Someone asked for it in [r/hotasdiy](https://www.reddit.com/r/HotasDIY/), so here it is.
 
 This is the result of a lot of trial and error and multiple prototype revisions. 
-I have built one working copy, but of course your build will need your own tweaks and adjustments, hence the inclusion of the .step and fusion files.
+I have built one working copy, but of course your build will need your own tweaks and adjustments, hence the inclusion of the .step file.
 
 The design hasn't a licence agreement because I can't be bothered to choose/write one. Do whatever you like with the design.
 The construction is very straightforward , but making sure the parts are aligned and not warped are important to prevent binding and stiction problems.
